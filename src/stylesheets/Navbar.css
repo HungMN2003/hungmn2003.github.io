@@ -1,0 +1,11 @@
+.Navbar{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.Navbar li {
+    margin: 0px 10px;
+}
