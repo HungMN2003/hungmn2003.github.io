@@ -9,7 +9,7 @@ export const Content = () => {
                 Hey!
             </div>
             <div>
-                <img height={200} src={pikachu} />
+                <img height={200} src={pikachu} alt="pikachu"/>
             </div>
             <div className="Content-headerTwo">
                 I'm Hung.

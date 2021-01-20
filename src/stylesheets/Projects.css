@@ -1,0 +1,15 @@
+.Projects-container {
+    height: 100vh;
+    display: flex;
+
+}
+
+.Projects-sidebar {
+    flex:1;
+    background-color:aquamarine;
+}
+
+.Projects-content {
+    flex:4;
+    background-color:burlywood;
+}
